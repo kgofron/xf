@@ -75,3 +75,6 @@
 * motion
 * feedback
 * VME
+
+* R = Running
+* M = Migrated
