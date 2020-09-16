@@ -76,5 +76,6 @@
 * feedback
 * VME
 
+## Legend
 * R = Running
 * M = Migrated
