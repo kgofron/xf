@@ -25,7 +25,7 @@
 | 13   | 4102 | /epics/iocs/cam\-dcm/st\.cmd        | R  | M  | 9/21/20, Light on button in CSS needed, duplicate with cam5  |
 | 14   | 4105 | /epics/iocs/cam\-fs1/st\.cmd        | R  | M  | 9/21/20, Insert/Retract DIO feature                          |
 | 15   | 4106 | /epics/iocs/cam\-fs2/st\.cmd        | R  | M  | 9/21/20, Insert/Retract DIO feature                          |
-| 16   | 4104 | /epics/iocs/cam\-pbs/st\.cmd        |    |    |                                                              |
+| 16   | 4104 | /epics/iocs/cam\-pbs/st\.cmd        | R  | M  | 9/21/20                                                             |
 | 17   | 4103 | /epics/iocs/cam\-wbs/st\.cmd        |    |    |                                                              |
 | 18   | 4059 | /epics/iocs/det01/st\.cmd           | \- | \- | COMPLETED as Eiger1M                                         |
 | 19   | 4069 | /epics/iocs/det02\_AD\-3\-7/st\.cmd | \- | \- | Not needed                                                   |
