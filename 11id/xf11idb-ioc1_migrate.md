@@ -20,9 +20,9 @@
 | 8    | 4061 | /epics/iocs/cam2/st\.cmd            | R  | M  | R3\-8                                                        |
 | 9    | 4062 | /epics/iocs/cam3/st\.cmd            | R  | M  | R3\-8                                                        |
 | 10   | 4063 | /epics/iocs/cam4/st\.cmd            | R  | M  | R3\-8                                                        |
-| 11   | 4067 | /epics/iocs/cam5/st\.cmd            |    |    |                                                              |
+| 11   | 4067 | /epics/iocs/cam5/st\.cmd            |    |    | Same as cam-dcm                                              |
 | 12   | 4101 | /epics/iocs/cam\-bpm/st\.cmd        |    |    |                                                              |
-| 13   | 4102 | /epics/iocs/cam\-dcm/st\.cmd        |    |    | Light on button in CSS needed                                |
+| 13   | 4102 | /epics/iocs/cam\-dcm/st\.cmd        |    |    | Light on button in CSS needed, duplicate with cam5           |
 | 14   | 4105 | /epics/iocs/cam\-fs1/st\.cmd        |    |    |                                                              |
 | 15   | 4106 | /epics/iocs/cam\-fs2/st\.cmd        |    |    |                                                              |
 | 16   | 4104 | /epics/iocs/cam\-pbs/st\.cmd        |    |    |                                                              |
