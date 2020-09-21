@@ -16,7 +16,7 @@
 | 4    | 4001 | /epics/iocs/calc01/st\.cmd          |    |    | Debian calc\-dev defective, local calc used                  |
 | 5    | 4055 | /epics/iocs/cam08/st\.cmd           |    |    |                                                              |
 | 6    | 4081 | /epics/iocs/cam09/st\.cmd           |    |    |                                                              |
-| 7    | 4082 | /epics/iocs/cam10/st\.cmd           |    |    |                                                              |
+| 7    | 4082 | /epics/iocs/cam10/st\.cmd           |    |    | OAV microscope, Light control needed in CSS (plc1 control    |
 | 8    | 4061 | /epics/iocs/cam2/st\.cmd            | R  | M  | R3\-8                                                        |
 | 9    | 4062 | /epics/iocs/cam3/st\.cmd            | R  | M  | R3\-8                                                        |
 | 10   | 4063 | /epics/iocs/cam4/st\.cmd            | R  | M  | R3\-8                                                        |
