@@ -14,9 +14,9 @@
 | 2    | 4074 | /epics/iocs/bpm02/st\.cmd           |    |    | CHANGE PVs\!\!\!, Use bpm03\-sydor from xf04id               |
 | 3    | 4064 | /epics/iocs/C400/st\.cmd            |    |    |                                                              |
 | 4    | 4001 | /epics/iocs/calc01/st\.cmd          |    |    | Debian calc\-dev defective, local calc used                  |
-| 5    | 4055 | /epics/iocs/cam08/st\.cmd           | R  | M  | X-ray eye                                                    |
-| 6    | 4081 | /epics/iocs/cam09/st\.cmd           |    |    | WAXS                                                         |
-| 7    | 4082 | /epics/iocs/cam10/st\.cmd           |    |    | OAV microscope, Light control needed in CSS (plc1 control    |
+| 5    | 4055 | /epics/iocs/cam08/st\.cmd           | R  | M  | 9/22/20: X-ray eye                                           |
+| 6    | 4081 | /epics/iocs/cam09/st\.cmd           | R  | M  | 9/22/20: WAXS X-ray eye                                      |
+| 7    | 4082 | /epics/iocs/cam10/st\.cmd           | R  | M  | 9/22/20: OAV microscope, Light control in CSS (plc1 dio)     |
 | 8    | 4061 | /epics/iocs/cam2/st\.cmd            | R  | M  | R3\-8                                                        |
 | 9    | 4062 | /epics/iocs/cam3/st\.cmd            | R  | M  | R3\-8                                                        |
 | 10   | 4063 | /epics/iocs/cam4/st\.cmd            | R  | M  | R3\-8                                                        |
