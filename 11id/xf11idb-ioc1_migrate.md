@@ -10,9 +10,9 @@
 
 | iocN | PORT | EXEC                                | R  | M  | Note                                                         |
 |------|------|-------------------------------------|----|----|--------------------------------------------------------------|
-| 1    | 4072 | /epics/iocs/attn1/st\.cmd           | R  | M  | 9/23/20                                                             |
+| 1    | 4072 | /epics/iocs/attn1/st\.cmd           | R  | M  | 9/23/20                                                      |
 | 2    | 4074 | /epics/iocs/bpm02/st\.cmd           |    |    | CHANGE PVs\!\!\!, Use bpm03\-sydor from xf04id               |
-| 3    | 4064 | /epics/iocs/C400/st\.cmd            | R  | M  | 9/23/20                                                             |
+| 3    | 4064 | /epics/iocs/C400/st\.cmd            | R  | M  | 9/23/20                                                      |
 | 4    | 4001 | /epics/iocs/calc01/st\.cmd          | R  | M  | Debian calc\-dev defective, local calc used                  |
 | 5    | 4055 | /epics/iocs/cam08/st\.cmd           | R  | M  | 9/22/20: X-ray eye                                           |
 | 6    | 4081 | /epics/iocs/cam09/st\.cmd           | R  | M  | 9/22/20: WAXS X-ray eye                                      |
@@ -51,7 +51,7 @@
 | 39   | 4122 | /epics/iocs/mc16/st\.cmd            |    |    | SmarAct 10/20 planned with beam                              |
 | 40   | 4123 | /epics/iocs/mc17/st\.cmd            | \- | \- | SmarAct \- no hardware N/A                                   |
 | 41   | 4085 | /epics/iocs/smarpod/st\.cmd         |    |    | ???                                                          |
-| 42   | 6002 | /epics/iocs/syringepump/st\.cmd     | R  | M  |                                                              |
+| 42   | 6002 | /epics/iocs/syringepump/st\.cmd     | R  | M  | 9/23/20, Use EPICS R3-9                                      |
 | 43   | 4071 | /epics/iocs/trigger/st\.cmd         |    |    |                                                              |
 | 44   | 4051 | /epics/iocs/va\-1/st\.cmd           |    |    |                                                              |
 | 45   | 4075 | /epics/iocs/vmemon1/st\.cmd         |    |    | CHANGE PVs\!\!\!, vmemon adandoned\-> wienercarate \(4idi1\) |
