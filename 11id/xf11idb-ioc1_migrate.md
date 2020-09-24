@@ -31,8 +31,8 @@
 | 19   | 4069 | /epics/iocs/det02\_AD\-3\-7/st\.cmd | \- | \- | Not needed                                                   |
 | 20   | 4069 | /epics/iocs/det02/st\.cmd           | \- | \- | COMPLETED Eiger4M                                            |
 | 21   | 4080 | /epics/iocs/det03/st\.cmd           | \- | \- | COMPLETED Eiger 500k                                         |
-| 22   | 6001 | /epics/iocs/dlm4000/st\.cmd         |    |    | Yokogawa                                                     |
-| 23   | 4073 | /epics/iocs/env01/st\.cmd           |    |    |                                                              |
+| 22   | 6001 | /epics/iocs/dlm4000/st\.cmd         |    |    | Yokogawa drive (6), SAX table/pipe. APSshare missing         |
+| 23   | 4073 | /epics/iocs/env01/st\.cmd           |    |    | Lakeshore 336                                                |
 | 24   | 4077 | /epics/iocs/fb1/st\.cmd             |    |    | Needs STD                                                    |
 | 25   | 4058 | /epics/iocs/mc01/st\.cmd            | R  | M  | 8/24/2020                                                    |
 | 26   | 4050 | /epics/iocs/mc02/st\.cmd            | R  | M  | 8/24/2020                                                    |
