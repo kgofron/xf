@@ -52,7 +52,7 @@
 | 40   | 4123 | /epics/iocs/mc17/st\.cmd            | \- | \- | SmarAct \- no hardware N/A                                   |
 | 41   | 4085 | /epics/iocs/smarpod/st\.cmd         |    |    | ???                                                          |
 | 42   | 6002 | /epics/iocs/syringepump/st\.cmd     | R  | M  | 9/23/20, Use EPICS R3-9                                      |
-| 43   | 4071 | /epics/iocs/trigger/st\.cmd         |    |    |                                                              |
+| 43   | 4071 | /epics/iocs/trigger/st\.cmd         |    |    | 9/24/20: ready to switch iocs                                |
 | 44   | 4051 | /epics/iocs/va\-1/st\.cmd           |    |    |                                                              |
 | 45   | 4075 | /epics/iocs/vmemon1/st\.cmd         |    |    | CHANGE PVs\!\!\!, vmemon adandoned\-> wienercarate \(4idi1\) |
 | 46   | 4068 | /epics/iocs/zebra/st\.cmd           | R  | M  | COMPLETED zebra2 \(5idi1,5iddi1nmd\)                         |
