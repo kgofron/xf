@@ -22,7 +22,7 @@
 | 10   | 4063 | /epics/iocs/cam4/st\.cmd            | R  | M  | R3\-8                                                        |
 | 11   | 4067 | /epics/iocs/cam5/st\.cmd            | R  | M  | 9/23/20, Radiation Monitor                                   |
 | 12   | 4101 | /epics/iocs/cam\-bpm/st\.cmd        | R  | M  | 9/21/20                                                      |
-| 13   | 4102 | /epics/iocs/cam\-dcm/st\.cmd        | R  | M  | 9/21/20, Light on button in CSS needed, duplicate with cam5  |
+| 13   | 4102 | /epics/iocs/cam\-dcm/st\.cmd        | R  | M  | 9/21/20, Light on button in CSS needed, Naming fix Mon->Mono |
 | 14   | 4105 | /epics/iocs/cam\-fs1/st\.cmd        | R  | M  | 9/21/20, Insert/Retract DIO feature                          |
 | 15   | 4106 | /epics/iocs/cam\-fs2/st\.cmd        | R  | M  | 9/21/20, Insert/Retract DIO feature                          |
 | 16   | 4104 | /epics/iocs/cam\-pbs/st\.cmd        | R  | M  | 9/21/20                                                      |
