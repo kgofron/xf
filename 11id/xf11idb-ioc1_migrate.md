@@ -48,7 +48,7 @@
 | 36   | 4079 | /epics/iocs/mc13/st\.cmd            | \- | \- | SmarAct \- no hardware N/A                                   |
 | 37   | 4065 | /epics/iocs/mc14/st\.cmd            | R  | M  | SmarAct 9/11/20                                              |
 | 38   | 4076 | /epics/iocs/mc15/st\.cmd            | R  | M  | SmarAct 9/16/20                                              |
-| 39   | 4122 | /epics/iocs/mc16/st\.cmd            |    |    | SmarAct 10/20 planned with beam                              |
+| 39   | 4122 | /epics/iocs/mc16/st\.cmd            |    |    | SmarAct 11/9 planned with beam                              |
 | 40   | 4123 | /epics/iocs/mc17/st\.cmd            | \- | \- | SmarAct \- no hardware N/A                                   |
 | 41   | 4085 | /epics/iocs/smarpod/st\.cmd         |    |    | ???                                                          |
 | 42   | 6002 | /epics/iocs/syringepump/st\.cmd     | R  | M  | 9/23/20, Use EPICS R3-9                                      |
