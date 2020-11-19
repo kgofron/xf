@@ -48,12 +48,12 @@
 | 36   | 4079 | /epics/iocs/mc13/st\.cmd            | \- | \- | SmarAct \- no hardware N/A                                   |
 | 37   | 4065 | /epics/iocs/mc14/st\.cmd            | R  | M  | SmarAct 9/11/20                                              |
 | 38   | 4076 | /epics/iocs/mc15/st\.cmd            | R  | M  | SmarAct 9/16/20                                              |
-| 39   | 4122 | /epics/iocs/mc16/st\.cmd            |    |    | SmarAct 11/9 planned with beam                              |
+| 39   | 4122 | /epics/iocs/mc16/st\.cmd            | R  | M  | SmarAct 11/1/20                                              |
 | 40   | 4123 | /epics/iocs/mc17/st\.cmd            | \- | \- | SmarAct \- no hardware N/A                                   |
 | 41   | 4085 | /epics/iocs/smarpod/st\.cmd         |    |    | ???                                                          |
 | 42   | 6002 | /epics/iocs/syringepump/st\.cmd     | R  | M  | 9/23/20, Use EPICS R3-9                                      |
-| 43   | 4071 | /epics/iocs/trigger/st\.cmd         | R  | M  | 9/25/20                                |
-| 44   | 4051 | /epics/iocs/va\-1/st\.cmd           | R  | M  | 9/25/20                                                             |
+| 43   | 4071 | /epics/iocs/trigger/st\.cmd         | R  | M  | 9/25/20                                                      |
+| 44   | 4051 | /epics/iocs/va\-1/st\.cmd           | R  | M  | 9/25/20                                                      |
 | 45   | 4075 | /epics/iocs/vmemon1/st\.cmd         |    |    | CHANGE PVs\!\!\!, vmemon adandoned\-> wienercarate \(4idi1\) |
 | 46   | 4068 | /epics/iocs/zebra/st\.cmd           | R  | M  | COMPLETED zebra2 \(5idi1,5iddi1nmd\)                         |
 | 47   | 6005 | /epics/iocs/cam\-bfly1/st\.cmd      | N  | M  | Stopped                                                      |
