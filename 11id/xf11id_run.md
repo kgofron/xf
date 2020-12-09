@@ -6,6 +6,7 @@
 | Author   | K. Gofron |
 
 * xf11ida-ioc1
+
 |    | xf11ida-ioc1:/epics/iocs           |                          |
 |----|------------------------------------|--------------------------|
 | 1  | /etc/init.d/softioc-bi-bpm         | Running                  |
@@ -30,6 +31,7 @@
 | 20 | /etc/init.d/softioc-va-1           | Running                  |
 
 * xf11idb-ioc1
+
 |    | xf11idb-ioc1                     |                           |
 |----|----------------------------------|---------------------------|
 | 1  | /etc/init.d/softioc-attn1        | Stopped.  Not registered  |
@@ -83,6 +85,7 @@
 | 49 | /etc/init.d/softioc-zebra        | Stopped.  Not registered  |
 
 * xf11idb-ioc2
+
 |    | xf11idb-ioc2                    |                          |
 |----|---------------------------------|--------------------------|
 | 1  | /etc/init.d/softioc-attn1       | Running                  |
