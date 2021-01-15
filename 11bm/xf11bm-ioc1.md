@@ -1,9 +1,10 @@
+# RecCaster upgrade (RecSync client)
 | Beamline | 11BM      |
 |----------|-----------|
 | Date     | 1/6/2021  |
 | Author   | K. Gofron |
 
-
+# 11BM RecCaster installation
 |    | xf11ida-ioc1:/epics/iocs           | Status                   | RecCaster | Gitlab | Note |
 |----|------------------------------------|--------------------------|-----------|--------|------|
 | 1  | /etc/init.d/softioc-C400           | Running                  | Y         | Y      |      |
